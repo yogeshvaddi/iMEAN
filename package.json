@@ -1,0 +1,22 @@
+{
+  "name": "yogeshvaddi",
+  "version": "1.0.0",
+  "description": "Innovation is our habbit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified \" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Yogesh Vaddi",
+  "license": "ISC"
+}
